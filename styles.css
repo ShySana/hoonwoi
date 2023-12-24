@@ -1,6 +1,16 @@
 body {
+    font-family: Arial, sans-serif;
     margin: 0;
-    background: pink;
-    text-align: center;
+    padding: 0;
+}
 
+header {
+    background-color: #333; /* Set the background color for the header */
+    color: #fff; /* Set the text color to white */
+    padding: 20px; /* Add some padding to the header */
+    text-align: center; /* Center-align the text */
+}
+
+h1 {
+    margin: 0; /* Remove default margin for the h1 element */
 }
